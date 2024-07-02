@@ -1,5 +1,4 @@
 =======
->>>>>>> 52791d6dd2f551b749bc03811516b16fc68c63b4
 # Jogo em C
 
 ## Descrição
@@ -28,6 +27,3 @@ ou o outro jogador.
 ### Compilação
 ...
 =======
-
-
->>>>>>> 52791d6dd2f551b749bc03811516b16fc68c63b4
